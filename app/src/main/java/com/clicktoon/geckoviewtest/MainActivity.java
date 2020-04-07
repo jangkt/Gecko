@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         geckoView.setSession(geckoSession);
 
-        geckoSession.loadUri("https://m.webtoon.daum.net/");
+        geckoSession.loadUri("http://m.webtoon.daum.net/");
 
     }
 }
